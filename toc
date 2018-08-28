@@ -9,5 +9,5 @@ Historical Instrument Analytics
     {: .navgroup-end}
 
     {: .navgroup id="reference"}
-    [API reference](https://console.bluemix.net/apidocs/historical-instrument-analytics-service)
+    [API reference](https://console.bluemix.net/apidocs/historical-instrument-analytics)
     {: .navgroup-end}
